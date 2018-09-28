@@ -1,6 +1,6 @@
 # Terraform URL Provider
 
-Stupid simple URL parsing data source.
+Simple little Terraform data source for parsing URLs.
 
 Meant for those times when you're given a full URL and just want to pass on a piece of it.
 
