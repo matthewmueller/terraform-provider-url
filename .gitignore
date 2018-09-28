@@ -1,0 +1,5 @@
+main.tf
+terraform-provider-*
+terraform.tfstate*
+.terraform/
+example/
